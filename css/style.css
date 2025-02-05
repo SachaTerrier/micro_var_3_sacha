@@ -1,0 +1,94 @@
+body{
+  height: 300vh; 
+  background-color: black;
+}
+
+main{
+  position : fixed;
+  height: 100vh;
+  width: 100vw;
+ 
+
+  
+}
+
+
+  
+
+/* ne pas toucher aux éléments ci-dessus. On travail c'est ce qui permet d'avoir une page que l'on peut 
+"scroller" mais qui visuellement ne bouge pas. */
+
+ 
+#p1{
+  height: 314px;
+  width: 306px;
+  position: absolute;
+  top: 947px;
+  left: 1108px;
+  
+
+  }
+
+  #p2{
+    width:691px ;
+    height: 794px;
+    position: absolute;
+    top: 456px;
+    left: 551px;
+    transform: rotate(7deg);
+    }
+
+    #p3{
+      width: 440px;
+      height: 470px;
+      position: absolute;
+      top: 826px;
+      left: 402px;
+      }
+
+      #p4{
+        width:400px;
+        height: 340px;
+        position: absolute;
+        top: 909px;
+        left: 41px;
+        }
+        #p5{
+          width: 543px;
+          height: 603px;
+          position: absolute;
+          top: 115px;
+          left: 755px;
+          }
+
+          #p6{
+            width: 486px;
+            height: 641px;
+            position: absolute;
+            top: 44px;
+            left: 107px;
+            }
+
+            #p7{
+              width:1290px;
+              height: 1434px;
+              position: absolute;
+              top: 1px;
+              left: 1223px;
+              }
+
+              #p8{
+                height: 188px;
+                width: 268px;
+                position: absolute;
+                top: 1024px;
+                left: 2233px;
+                }
+  
+             
+                  
+                    
+                  
+                
+  
+  
